@@ -18,4 +18,3 @@ export default class Advanced extends React.Component {
         );
     }
 }
-<script src="simpleParallax.js"></script>
