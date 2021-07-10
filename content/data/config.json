@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "title": "EUREKATIS"
     },
     "footer": {
         "has_nav": true,
