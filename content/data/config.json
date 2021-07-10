@@ -30,7 +30,8 @@
                 "style": "primary"
             }
         ],
-        "title": "EUREKATIS"
+        "title": "EUREKATIS",
+        "logo_alt": "UNe solution"
     },
     "footer": {
         "has_nav": true,
