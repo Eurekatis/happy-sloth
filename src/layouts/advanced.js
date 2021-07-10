@@ -19,4 +19,3 @@ export default class Advanced extends React.Component {
     }
 }
 <script src="simpleParallax.js"></script>
- <img class="thumbnail" src="image.jpg" alt="image">
